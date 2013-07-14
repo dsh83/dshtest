@@ -1,4 +1,3 @@
-
 <?php include('inc/html_header.php'); ?>
 <?php include('inc/the_header.php'); ?>
 <?php include('inc/the_nav.php'); ?>
@@ -14,4 +13,4 @@
 <?php include('inc/the_footer.php'); ?>
 <?php include('inc/html_footer.php'); ?>
 
-//tect change
+//test change
