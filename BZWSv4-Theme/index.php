@@ -13,3 +13,5 @@
 
 <?php include('inc/the_footer.php'); ?>
 <?php include('inc/html_footer.php'); ?>
+
+//tect change
